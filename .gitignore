@@ -1,0 +1,7 @@
+__pycache__
+venv
+res_api.py
+res_config/
+generate_test_json.py
+*.db
+*.MD
